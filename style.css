@@ -1,0 +1,13 @@
+body{background-color:green;}
+img{width:1145px;
+    height:200px;
+	margin-left:60px;
+	margin-right:60px;
+	}
+.main_part{width:1260px;color:white;}
+.first_part{margin-left:60px;margin-right:60px;width:300px;float:left;}
+.second_part{width:900px;float:middle;}
+.footer{background-color:#E67E22;color:white;
+        margin-left:60px;
+            margin-right:60px;
+}
